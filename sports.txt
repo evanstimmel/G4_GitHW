@@ -2,3 +2,4 @@ football
 basketball
 baseball
 hockey
+wrestling
